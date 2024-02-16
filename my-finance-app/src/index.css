@@ -1,0 +1,39 @@
+/* index.css */
+
+/* Estilos globais para o corpo do documento */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+/* Estilos para todos os elementos 'code' no documento */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* Estilos para a classe 'App' */
+.App {
+  text-align: center;
+}
+
+/* Estilos para a navegação */
+nav {
+  padding: 10px;
+  background-color: #333;
+}
+
+nav button {
+  padding: 8px 16px;
+  background-color: #555;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background-color: #777;
+}
+
+/* Adicione mais estilos conforme necessário */
